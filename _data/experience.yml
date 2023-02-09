@@ -1,0 +1,25 @@
+
+- role: Visiting researcher
+  where: Mila
+  who: with David Rolnick and Yoshua Bengio
+  url: https://mila.quebec/
+  when: Feb. 2022 - 2023
+  content: 
+    - Designed scalable and expressive symmetry-preserving GNNs to predict the relaxed adsorption energy of a catalyst-adsorbate system. Combine it with a generative method (e.g. GFlowNet) for catalyst discovery
+     
+- role: Research intern
+  where: Inria Saclay
+  who: with Fragkiskos Malliaros
+  url: https://opis-inria.eu/
+  when: June - Dec. 2020
+  content: 
+    - Proposed a unified view of existing GNN explainability methods along with a new explainer
+    - Investigated graph representation learning, explainability and fusion of protein-protein interaction nets
+
+- role: Research intern
+  where: Naver Labs Europe
+  who: with Matthias Gallé
+  url: https://europe.naverlabs.com/
+  when: March - June 2020
+  content: 
+    - Worked on controlled and contextualised text generation for novel authors. Open-source writing assistant

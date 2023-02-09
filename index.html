@@ -1,0 +1,20 @@
+---
+layout: main
+title: Home
+---
+<div class="columns">
+      <div class="column is-one-quarter content">
+        <figure class="image">
+          <img src="/assets/images/alex-photo.png">
+          <figcaption>PhD Student<br>CentraleSupelec & Inria & Mila</figcaption>
+        </figure>
+      </div>
+      <div class="column is-three-quarters content">
+        <h1>Alexandre Duval</h1>
+        {% capture description %}{% include description.md %}{% endcapture %}
+        {{ description | markdownify }}
+        <h3>Contact</h3>
+        <p>{{ site.email }}</p>
+      </div>
+</div>
+

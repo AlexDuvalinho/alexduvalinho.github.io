@@ -1,0 +1,32 @@
+# https://fontawesome.com/
+# https://jpswalsh.github.io/academicons/
+- name: Google Scholar
+  link: https://scholar.google.com/citations?user=cBdNRh8AAAAJ&hl=fr
+  icon:
+    source: ai
+    name: ai-google-scholar
+    type: ai
+- name: Twitter
+  link: https://twitter.com/ADuvalinho
+  icon:
+    source: fa
+    name: fa-twitter
+    type: fab
+- name: GitHub
+  link: https://github.com/AlexDuvalinho
+  icon:
+    source: fa
+    name: fa-github
+    type: fab
+- name: LinkedIn
+  link: https://www.linkedin.com/in/alexandre-duval-b00531128/
+  icon:
+    source: fa
+    name: fa-linkedin
+    type: fab
+- name: Email
+  link: mailto:alexandre.duval@mila.quebec
+  icon:
+    source: fa
+    name: fa-envelope
+    type: far

@@ -1,0 +1,18 @@
+<article class="media">
+	<div class="media-content">
+		<div class="content">
+		<p>
+	<b>{{item.what}}</b> {{ item.where }}, {{ item.city }} ({{ item.country }}), {{ item.month }} {{ item.year }}. <br>
+	<em>{{ item.title }}</em> {% if item.link %}.
+      <a class="tag" href="{{ item.link }}">link</a>
+		{% endif %}
+    {% if item.video %}
+      <a class="tag" href="{{ item.video }}">video</a>
+		{% endif %}
+    {% if item.slides %}
+      <a class="tag" href="{{ item.slides }}">slides</a>
+		{% endif %}
+		</p>
+		</div>
+	</div>
+</article>

@@ -1,0 +1,15 @@
+- name: Publications
+  link: /publications.html
+- name: Experience
+  link: /experience.html
+- name: Academical service
+  link: /teaching.html
+- name: CV
+  link: /cv.html
+# - name: Projects
+#   link: /projects.html
+# - name: Resources
+#   link: /resources/publication-venues-ml.html
+# - name: About me
+#   link: /about.html
+

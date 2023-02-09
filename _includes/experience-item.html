@@ -1,0 +1,16 @@
+<article class="media">
+	<div class="media-content">
+		<div class="content">
+		<p>
+        <b>{{ item.role }}</b> <br>
+        <a href="{{item.url}}">{{ item.where }}</a>, {{ item.who }} <br>
+        <font size="-1">{{ item.when }}</font>
+        <ul>
+        {% for content in item.content %}
+            <li>{% if content == site.role %}<b>{{ content }}</b>{% else %}{{ content }}{% endif %}{% if forloop.last == false %}. {% else %}.{% endif %}</li>
+        {% endfor %}
+        </ul>
+		</p>
+		</div>
+	</div>
+</article>

@@ -1,0 +1,58 @@
+- title: "FAENet: Frame Averaging Equivariant GNNs for Materials Modeling"
+  authors:
+    - Alexandre Duval
+    - Victor Schmidt
+    - Santiago Miret
+    - Yoshua Bengio
+    - Alex Hernandez-Garcia
+    - David Rolnick
+  year: 2022
+  journal: Under review at ICML
+
+- title: "PhAST: physics-aware, scalable, and task-specific GNNs for accelerated catalyst design"
+  authors:
+    - Alexandre Duval
+    - Victor Schmidt
+    - Santiago Miret
+    - Yoshua Bengio
+    - Alex Hernandez-Garcia
+    - David Rolnick
+  year: 2022
+  journal: Neural Information Processing Systems (NeurIPS), Workshop on Accelerated Materials Design (AI4Mat)
+  tags:
+    - tag: arXiv
+      link: https://arxiv.org/abs/2211.12020
+    - tag: OpenReview
+      link: https://openreview.net/forum?id=hHercGKiXvP
+
+- title: "Higher-order clustering and pooling for graph neural networks"
+  authors:
+    - Alexandre Duval
+    - Fragkiskos D. Malliaros
+  year: 2022
+  journal: In Proceedings of the 31st ACM International Conference on Information & Knowledge Management (pp. 426-435).
+  tags:
+    - tag: arXiv
+      link: https://arxiv.org/abs/2209.03473
+
+- title: "Graphsvx: Shapley value explanations for graph neural networks"
+  authors:
+    - Alexandre Duval
+    - Fragkiskos D. Malliaros
+  year: 2021
+  journal: In Machine Learning and Knowledge Discovery in Databases. Research Track, European Conference, ECML PKDD 2021, Bilbao, Spain, September 13–17, 2021, Proceedings, Part II 21 (pp. 302-318). Springer International Publishing.
+  tags:
+    - tag: arXiv
+      link: https://arxiv.org/abs/2104.10482
+
+- title: "Breaking Writer's Block: Low-cost Fine-tuning of Natural Language Generation Models"
+  authors:
+    - Alexandre Duval
+    - Thomas Lamson
+    - Gael d. L. de Kérouara
+    - Matthias Gallé
+  year: 2020
+  journal: In Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2021)
+  tags:
+    - tag: arXiv
+      link: https://arxiv.org/pdf/2101.03216.pdf
