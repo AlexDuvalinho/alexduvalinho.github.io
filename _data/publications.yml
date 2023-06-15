@@ -6,8 +6,11 @@
     - Yoshua Bengio
     - Alex Hernandez-Garcia
     - David Rolnick
-  year: 2022
-  journal: Under review at ICML
+  year: 2023
+  journal: International Conference on Machine Learning (ICML)
+  tags:
+      - tag: arXiv
+      link: https://arxiv.org/pdf/2305.05577.pdf
 
 - title: "PhAST: physics-aware, scalable, and task-specific GNNs for accelerated catalyst design"
   authors:
@@ -18,7 +21,7 @@
     - Alex Hernandez-Garcia
     - David Rolnick
   year: 2022
-  journal: Neural Information Processing Systems (NeurIPS), Workshop on Accelerated Materials Design (AI4Mat)
+  journal: Neural Information Processing Systems (NeurIPS), Workshop on Accelerated Materials Design (AI4Mat). Under review at JMLR.
   tags:
     - tag: arXiv
       link: https://arxiv.org/abs/2211.12020
