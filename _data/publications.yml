@@ -7,9 +7,9 @@
     - Alex Hernandez-Garcia
     - David Rolnick
   year: 2023
-  journal: International Conference on Machine Learning (ICML)
+  journal: International Conference on Machine Learning (ICML).
   tags:
-      - tag: arXiv
+    - tag: arXiv
       link: https://arxiv.org/pdf/2305.05577.pdf
 
 - title: "PhAST: physics-aware, scalable, and task-specific GNNs for accelerated catalyst design"
