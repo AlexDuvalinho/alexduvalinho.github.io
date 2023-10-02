@@ -1,3 +1,29 @@
+- title: "Crystal-GFlowNet: sampling materials with desirable properties and constraints"
+  authors:
+    - Mistal (*team name denoting the equal contribution of all authors*)
+    - Alex Hernández-García
+    - Alexandra Volokhova
+    - Alexandre Duval
+    - Yoshua Bengio
+    - Divya Sharma
+    - Pierre Luc Carrier
+    - Michał Koziarski
+    - Victor Schmidt
+  year: 2023
+  journal: Under submission at NeurIPS AI4MAt workshop. 
+  
+- title: "On the importance of relative 3D information in the prediction of catalyst-adsorbate relaxed energy with Disconnected GNN"
+  authors:
+    - Alvaro Carbonero
+    - Alexandre Duval
+    - Victor Schmidt
+    - Santiago Miret
+    - Alex Hernandez-Garcia
+    - Yoshua Bengio
+    - David Rolnick
+  year: 2023
+  journal: Under submission at NeurIPS AI4MAt workshop. 
+      
 - title: "FAENet: Frame Averaging Equivariant GNNs for Materials Modeling"
   authors:
     - Alexandre Duval
