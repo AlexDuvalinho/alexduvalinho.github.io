@@ -12,9 +12,9 @@
   year: 2023
   journal: Under review at NeurIPS AI4MAt workshop. 
   tags:
-      - tag: arXiv
+    - tag: arXiv
       link: https://arxiv.org/abs/2310.04925
-  
+
 - title: "On the importance of catalyst-adsorbate 3D interactions for relaxed energy predictions"
   authors:
     - Alvaro Carbonero
@@ -27,7 +27,7 @@
   year: 2023
   journal: Under submission at NeurIPS AI4MAt workshop. 
   tags:
-      - tag: arXiv
+    - tag: arXiv
       link: https://arxiv.org/abs/2310.06682
 
 - title: "FAENet: Frame Averaging Equivariant GNNs for Materials Modeling"
