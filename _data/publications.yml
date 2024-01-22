@@ -1,3 +1,20 @@
+- title: "A Hitchhiker's Guide to Geometric GNNs for 3D Atomic Systems"
+  authors:
+    - Alexandre Duval
+    - Simon V. Mathis
+    - Chaitanya K. Joshi
+    - Victor Schmidt
+    - Santiago Miret
+    - Fragkiskos Malliaros
+    - Taco Cohen
+    - Pietro Lio
+    - Yoshua Bengio
+    - Michal Bronstein
+  year: 2023
+  tags:
+    - tag: arXiv
+      link: https://arxiv.org/pdf/2312.07511.pdf
+
 - title: "Crystal-GFlowNet: sampling materials with desirable properties and constraints"
   authors:
     - Mila AI4Science (*team name denoting the equal contribution of all authors*)
@@ -10,7 +27,7 @@
     - Michał Koziarski
     - Victor Schmidt
   year: 2023
-  journal: Under review at NeurIPS AI4MAt workshop. 
+  journal: Spotlight at NeurIPS AI4MAt workshop. 
   tags:
     - tag: arXiv
       link: https://arxiv.org/abs/2310.04925
@@ -25,7 +42,7 @@
     - Yoshua Bengio
     - David Rolnick
   year: 2023
-  journal: Under submission at NeurIPS AI4MAt workshop. 
+  journal: NeurIPS AI4MAt workshop. 
   tags:
     - tag: arXiv
       link: https://arxiv.org/abs/2310.06682
@@ -53,7 +70,7 @@
     - Alex Hernandez-Garcia
     - David Rolnick
   year: 2022
-  journal: Neural Information Processing Systems (NeurIPS), Workshop on Accelerated Materials Design (AI4Mat). Under review at JMLR.
+  journal: Journal of Machine Learning Research (JMLR).
   tags:
     - tag: arXiv
       link: https://arxiv.org/abs/2211.12020
