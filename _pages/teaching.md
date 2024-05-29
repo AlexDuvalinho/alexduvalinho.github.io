@@ -25,7 +25,7 @@ permalink: /teaching
 - **Contributor** to open source libraries (e.g. Pytorch Geometric).
 - **Reviewer** for ICML, NeurIPS, LoG and the Web Conference.
 - **Lab representative** at CVN CentraleSupelec and Inria OPIS.
-- **Supervisor** of one MSc intern at Mila. 
+- **Supervisor** of one MSc intern at Mila and ENS MVA students. 
 - **AI for Tomorrow**: write articles about AI, discuss challenges and promote beneficial usage.
 <br>
 
