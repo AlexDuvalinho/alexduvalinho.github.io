@@ -1,3 +1,18 @@
+- title: "Improving Molecular Modeling with Geometric GNNs: an Empirical Study"
+  authors:
+    - Ali Ramlaoui
+    - Theo Saulus 
+    - Basile Tervers
+    - Victor Schmidt
+    - David Rolnick
+    - Fragkiskos Malliaros
+    - Alexandre Duval
+  year: 2024
+  journal: ICML ML4LMS workshop. 
+  tags:
+    - tag: arXiv
+      link: https://arxiv.org/pdf/2407.08313
+
 - title: "A Hitchhiker's Guide to Geometric GNNs for 3D Atomic Systems"
   authors:
     - Alexandre Duval

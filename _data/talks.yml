@@ -1,3 +1,19 @@
+- title: "AI for materials discovery"
+  year: 2024
+  month: July
+  what: Talk and Panel session
+  where: ICML
+  city: Vienna
+  country: Austria
+
+- title: "Crystal-GFN: sampling crystals with desirable properties and constraints"
+  year: 2023
+  month: November
+  what: Paper presentation 
+  where: MOML Conference
+  city: Montreal
+  country: Canada
+
 - title: "FAENet: Frame Averaging Equivariant GNNs for Materials Modeling"
   year: 2023
   month: October
