@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Home
 tagline: Graph Machine Learning 
-email: alexandre.duval@mila.quebec
+email: alexandre.duval@entalpic.ai
 twitter_username: aduvalinho
 github_username:  alexduvalinho
 twitter:

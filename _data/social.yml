@@ -25,7 +25,7 @@
     name: fa-linkedin
     type: fab
 - name: Email
-  link: mailto:alexandre.duval@mila.quebec
+  link: mailto:alexandre.duval@entalpic.ai
   icon:
     source: fa
     name: fa-envelope
